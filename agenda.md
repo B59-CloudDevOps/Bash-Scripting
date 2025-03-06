@@ -1,4 +1,4 @@
-# Following are the shell scripting topics which we discuss as a part of our project
+# Following are the shell scripting topics which we discuss in this training
 
 ```
     1. SheBang Notation and Comments
