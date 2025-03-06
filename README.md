@@ -13,3 +13,6 @@ What is shebang notation ?
 Python: 
 Go:
 Shell:
+
+How to run a script ?
+    $ bash scriptName.sh or ./scriptName.sh
