@@ -10,5 +10,4 @@ echo DevSecOps
 #  \t : Move the cursor to the next tab
 
 echo -e "hai \nhello\nwelcome\nDevSecOps"
-
 echo -e "hai \n\tAAAAAAAA\tBBBBBBB \t CCCCCCCC"
