@@ -34,5 +34,19 @@ echo Printing the value of a ${a}
 echo 'Printing the value of a ${a}'
 # when you enclose any variable in single quotes, it will print the variable name as it is. That also means, single quotes will elimiate the special variables power.
 
-TODAYS_DATE="2025-03-06"
+# TODAYS_DATE="2025-03-06"
+TODAYS_DATE=$(date +%F)
 echo "Today's date is $TODAYS_DATE" 
+
+# Demo to use expression via parathesis ()
+
+
+
+#  Variable names can be either upper case or lower case or we can also use the combination of both.
+# in bash there is no restirction on it.
+# As NFR, we should always use the variable names in upper case or lower case in the entire script.
+
+# VARNAME: Upper case 
+# varname: lower case
+# varName: camel case
+# var_name: snake case
