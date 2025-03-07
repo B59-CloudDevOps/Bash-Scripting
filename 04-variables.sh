@@ -20,4 +20,4 @@
 # $varName is going to print the value of the variable when used with echo command. 
 
 a=10
-echo "Printing the value of a $a"
+echo "Printing the value of a $a" 
