@@ -37,8 +37,8 @@ echo 'Printing the value of a ${a}'
 # TODAYS_DATE="2025-03-06"
 TODAYS_DATE=$(date +%F)
 echo "Today's date is $TODAYS_DATE" 
-
 # Demo to use expression via parathesis ()
+echo "Number of logged sessions on the server = $(who | wc -l)"
 
 
 
