@@ -9,4 +9,4 @@ echo DevSecOps
 #  /n : Move the cursor to the next line
 #  /t : Move the cursor to the next tab
 
-echo "hai /n hello /n welcome /n  DevSecOps"
+echo "hai /n hello /n welcome /n DevSecOps"
