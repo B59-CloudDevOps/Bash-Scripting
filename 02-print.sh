@@ -9,4 +9,6 @@ echo DevSecOps
 #  \n : Move the cursor to the next line
 #  \t : Move the cursor to the next tab
 
-echo -e "hai \n hello \n welcome \n DevSecOps"
+echo -e "hai \nhello\nwelcome\nDevSecOps"
+
+echo -e "hai \nAAAAAAAA\nBBBBBBB\nCCCCCCCC"
