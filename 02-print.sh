@@ -11,4 +11,4 @@ echo DevSecOps
 
 echo -e "hai \nhello\nwelcome\nDevSecOps"
 
-echo -e "hai \nAAAAAAAA\nBBBBBBB\nCCCCCCCC"
+echo -e "hai \n\tAAAAAAAA\n\tBBBBBBB\n\tCCCCCCCC"
