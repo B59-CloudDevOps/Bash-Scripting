@@ -22,3 +22,12 @@
 a=10
 echo "Printing the value of a $a"
 echo "Printing the value of b $b"
+# When you attempt to print the value of a variable that is not defined, it will print the empty value. 
+
+# echo deleting the data
+# rm -rf /data/$DATADIR  # rm /data/
+
+# $a or ${a} or "${a}" 
+
+echo "Printing the value of a $a"
+echo "Printing the value of a ${a}"
