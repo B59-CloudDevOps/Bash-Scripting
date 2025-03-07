@@ -32,3 +32,4 @@ echo "Printing the value of b $b"
 echo "Printing the value of a $a"
 echo "Printing the value of a ${a}"
 echo Printing the value of a ${a}
+echo 'Printing the value of a ${a}'
