@@ -12,6 +12,7 @@ echo "Value of a is $a"
 echo "scriptName is $0"
 echo "Name of the team is $TEAM"
 echo "Name of the project is $PROJECT"
+echo "Number Of Arguments in script are $#"     # Prints the no of arguments used in the script 
 
 # $0 : Prints the name of the script you're running
 
@@ -22,8 +23,8 @@ echo "Name of the project is $PROJECT"
 #        1     2     3    4    5     6    7      8    9      10
 # ( You supply up to 9 arguments)
 
-# echo $0     # prints the scriptName
-# echo "Number Of Arguments in script are $#"     # Prints the no of arguments used in the script 
+
+
 # echo "Exit Status Of The Previous Command $?"                                         # Prints the exit code of the previous command 
 # echo "Arguments In The Script Are $*"           # Prints all the arguments used in the script
 # echo "Arguments In The Script Are $@"           # Prints all the arguments used in the script
