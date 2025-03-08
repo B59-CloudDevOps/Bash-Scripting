@@ -11,7 +11,7 @@ PROJECT=$2
 echo "Value of a is $a"
 echo "scriptName is $0"
 echo "Name of the team is $TEAM"
-echo "Name of the team is $PROJECT"
+echo "Name of the project is $PROJECT"
 
 # $0 : Prints the name of the script you're running
 
