@@ -1,12 +1,3 @@
-#!/bin/bash
-
-echo "05-special-variables.sh"
-
-# Special Variables
-# $0 prints the name of the script you're running
-# $1 is the first argument you supply to the script 
-# $2 is the second argument you supply to the script 
-
 #!/bin/bash 
 
 # Special Variables are the pre-defined variables with specific special pre-defined powers.
