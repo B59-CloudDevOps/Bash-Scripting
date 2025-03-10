@@ -16,7 +16,7 @@ if [ "$ACTION" == "start" ]; then         # The below commands will only be exec
     echo "Starting the service"
 else
     echo "Valid Arguments are start"
-    echo "Ex: bash $0 start"
+    echo "Ex: \n bash $0 start"
 fi 
 
 echo -e "Script Completed"
