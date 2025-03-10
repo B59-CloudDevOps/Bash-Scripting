@@ -14,3 +14,15 @@
 for i in 1 2 3 4 5 6 7 8 9 10 ; do 
     echo "Value is i is $i" 
 done 
+
+
+echo "Demo on while loop"
+count=1
+
+while [ $count -le 5 ]
+do
+  echo "Count is: $count"
+  ((count++))  # Increment count
+done
+
+echo "Loop finished!"
