@@ -25,4 +25,4 @@ do
   ((count++))  # Increment count
 done
 
-echo "Loop finished!"
+echo "While Loop finished!"

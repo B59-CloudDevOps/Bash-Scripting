@@ -15,5 +15,4 @@
     7. Conditions
     8. Loops
     9. Basis of SED Command
-    10. Commands
 ```
